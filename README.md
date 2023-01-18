@@ -1,5 +1,5 @@
 # JanMusic
-Since a lot of discord music bots are being blocked by youtube nowadays, I've decided to write up a quick project that will aloww anyone to host their own discord bot. This bot includes the following commands:
+Since a lot of discord music bots are being blocked by youtube nowadays, I've decided to write up a quick project that will alow anyone to host their own discord bot. This bot includes the following commands:
 
 !help - displays all the available commands
 !play <youtube_url> - the bot joins your voice channel and starts streaming the song you selected\
